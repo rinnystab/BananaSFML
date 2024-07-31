@@ -8,7 +8,7 @@ It will be a good way to learn about different aspect of development with C++ fo
 ## Requirements
 
 #### Must Have (dependencies)
-- SFML Dependency should be installed (you could install it via, VCPKG/Basic installation aka from build
+- SFML Library should be installed (you could install it via, VCPKG/Basic installation aka from build
 
 ## Note
 
