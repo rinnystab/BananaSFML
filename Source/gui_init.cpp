@@ -63,7 +63,6 @@ auto main() -> int {
                 }
                 else if (ev.mouseButton.button == sf::Mouse::Right)
                 {
-                    printf("Right click triggered\n");
                     //don't know what todo
                 }
             }
